@@ -1,5 +1,7 @@
 # CoinCoinsInsolites Application Mobile
 
+Pour lire le code Flutter (Framework) / Dart (language) on peut utiliser Visual Studio Code ou bien Android Studio en ayant ajouté les plugins dart et flutter dans l'IDE utilisé
+
 ## Choix de la technologie et de l'approche
 
 Le projet a été fait en Flutter car ce framework permet, avec un seul code, de déployer sur iOS et Android. Etant une technologie nouvelle, il y a eu la volonté de certain de monter en
@@ -62,6 +64,15 @@ Ici par exemple:
 * Delete : Delete
 
 Même problématique rencontré pour créer et mettre à jour un Lieu Insolite
+
+* Le mode offline de l'application mobile n'a pas été travaillé juste par manque de temps.
+
+Ce que l'on aurait fait pour ce mode offline :
+
+ - Faire un check sur le status de la connexion internet du téléphone
+ - Créer une base de donnée en local dans l'application
+ - Si le téléphone n'a pas de réseau, sauvegarder tout ce que l'utilisateur fais dans cette BDD local
+ - Une fois le téléphone de nouveau sur le réseau faire un transfert de la BDD local vers la BDD online
 
 ## Répartition des tâches
 
