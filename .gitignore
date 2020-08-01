@@ -6,7 +6,6 @@ coincoins_insolites_mobile/build.gradle
 coincoins_insolites_mobile/gradlew
 coincoins_insolites_mobile/gradlew.bat
 coincoins_insolites_mobile/local.properties
-coincoins_insolites_mobile/pubspec.lock
 coincoins_insolites_mobile/.gradle/6.1.1/gc.properties
 coincoins_insolites_mobile/.gradle/6.1.1/fileChanges/last-build.bin
 coincoins_insolites_mobile/.gradle/6.1.1/fileHashes/fileHashes.lock
@@ -16,4 +15,3 @@ coincoins_insolites_mobile/.gradle/checksums/checksums.lock
 coincoins_insolites_mobile/.gradle/vcs-1/gc.properties
 coincoins_insolites_mobile/gradle/wrapper/gradle-wrapper.jar
 coincoins_insolites_mobile/gradle/wrapper/gradle-wrapper.properties
-coincoins_insolites_mobile/pubspec.lock
